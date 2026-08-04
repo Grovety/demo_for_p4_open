@@ -12,7 +12,7 @@ This package provides a ready-to-use Windows flashing tool for hardware revision
 
 1. Download and fully extract `CrowPanelv1.2_Demo_for_P4_v1.0.zip`.
 2. Connect the panel’s **UART0 USB-C port** to a Windows computer using a data-capable USB cable.
-3. Open the extracted `CrowPanel_P4_fast_flasher` folder.
+3. Open the extracted folder.
 4. Run `CrowPanel_P4_fast_flasher.exe`.
 5. Select the panel's COM port. Click **Refresh** if the port is not listed.
 6. Make sure **Clean install (erase entire flash)** is enabled.
